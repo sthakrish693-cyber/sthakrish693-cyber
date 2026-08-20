@@ -6,6 +6,8 @@
 
 ###
 
+<br clear="both">
+
 <img data-importer="image" align="right" height="207" src="https://media1.tenor.com/m/aPdNsblhRKAAAAAC/urahara-kisuke-bleach.gif"  />
 
 ###
@@ -56,17 +58,13 @@
 
 ###
 
+<br clear="both">
+
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=10&section=header&reversal=false&fontSize=62&fontColor=FFFFFF&fontAlign=46&fontAlignY=50&stroke=-&animation=blink&descSize=9&descAlign=38&descAlignY=45&textBg=false&color=undefined"  />
-</div>
 
 ###
 
