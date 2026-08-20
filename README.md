@@ -8,15 +8,13 @@
 
 <br clear="both">
 
-<img data-importer="image" align="right" height="207" src="https://media1.tenor.com/m/aPdNsblhRKAAAAAC/urahara-kisuke-bleach.gif"  />
-
-###
+<img data-importer="image" align="right" height="207" src="https://media1.tenor.com/m/aPdNsblhRKAAAAAC/urahara-kisuke-bleach.gif" />
 
 <h2 data-importer="text" align="left">About me</h2>
 
-###
-
 <p data-importer="text" align="left">✨ Creating bugs since i can walk <br>📚 I'm currently learning Python<br>🎯 Goals: Ethical hacking <br>🎲 Fun fact: I don web design</p>
+
+<br clear="both">
 
 ###
 
