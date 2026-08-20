@@ -1,0 +1,38 @@
+name: Generate arcade animation
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - master
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: galaga
+
+      - name: Push galaga-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
