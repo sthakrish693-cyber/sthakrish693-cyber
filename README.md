@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="center">My name is Krish Shrestha. I am currently pursuing CSIT in TU and with the passion for CS, Web design</p>
+<p data-importer="text" align="center">My name is Krish Shrestha. I am currently pursuing CSIT at TU  and with the passion for CS, Web design</p>
 
 ###
 
