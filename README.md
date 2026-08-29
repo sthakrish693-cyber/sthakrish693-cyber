@@ -12,7 +12,7 @@
 
 <h3 data-importer="text" align="left">About me</h3>
 
-<p data-importer="text" align="left">✨ Creating bugs since i can walk <br>📚 I'm currently learning Python<br>🎯 Goals: Ethical hacking <br>🎲 Fun fact: I do web design</p>
+<p data-importer="text" align="left">✨ Creating bugs since I started walking <br>📚 I'm currently learning Python<br>🎯 Goals: Ethical hacking <br>🎲 Fun fact: I do web design</p>
 
 <br clear="both">
 
